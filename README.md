@@ -1,3 +1,3 @@
 # wsyn
 
-"What Is You Name?" For Webapps.
+"What Is Your Name?" For Web Apps.
